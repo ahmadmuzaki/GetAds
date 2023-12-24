@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetAds</string>
+    <string name="move_to_main">Masuk ke Menu Utama </string>
+    <string name="pub_jenis">Jenis Publikasi</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
